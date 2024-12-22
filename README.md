@@ -16,6 +16,7 @@ Welcome to the **Boogle Game** repository! This README provides an overview of t
 
 - The game is played on a **4x4**, **5x5**, **6x6**, **7x7** or **8x8** grid of letters, depending what the players choose.
 - Players can play **individually** or in **groups**.
+- Make sure to install the library used for the word cloud 
 
 ### 🎯**Objective** 
 
